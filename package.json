@@ -1,0 +1,12 @@
+{
+  "name": "ava-bug-report",
+  "version": "1.0.0",
+  "description": "Reporting an issue in ava",
+  "main": "test.js",
+  "author": "Ed Brannin",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "ava": "^0.24.0"
+  }
+}
