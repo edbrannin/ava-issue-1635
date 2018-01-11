@@ -8,5 +8,8 @@
   "private": true,
   "dependencies": {
     "ava": "^0.24.0"
+  },
+  "scripts": {
+    "test": "ava --tap test.js"
   }
 }
